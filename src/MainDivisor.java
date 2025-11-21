@@ -1,7 +1,7 @@
 public class MainDivisor {
     public static void main(String[] args) {
         Divisor n1 = new Divisor();
-
+//Introduccimos una excepcion en el caso de que se introduzca datos alfanumericos
         try{
             int a =10;
             int b =4;
